@@ -4,4 +4,4 @@ def evenandodd(num):
     else:
         return "Odd number"
 
-print("Even and odd result is:",evenodd(15))
+print("Even and odd result is:", evenandodd(15))
